@@ -52,8 +52,7 @@ main_demo_lt.py
 main_demo_st.py
 ```
 
-**The final version of the code will be released soon.
-If you would like to download the beta version send an e-mail to llukmancerkezi@gmail.com  and also CC gunselb@itu.edu.tr**
+### The final version of the code will be released soon. If you would like to download the beta version send an e-mail to llukmancerkezi@gmail.com  and also CC gunselb@itu.edu.tr
 
 ## Credits
 
