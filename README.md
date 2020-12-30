@@ -38,14 +38,14 @@ You can run the code for two differeent scanerios: short term and long term.
 After you run the code you will get results in text file format.
 In each row you will get (x,y) - top lef corner and (w,h)-width and height of the object. 
 
-### Long Term (LT) Tracking
+#### Long Term (LT) Tracking
  Run the following 
 
 ```
 main_demo_lt.py
 ```
 
-### Short Term (ST) Tracking
+#### Short Term (ST) Tracking
  Run the following 
 
 ```
