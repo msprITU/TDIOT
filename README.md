@@ -1,5 +1,5 @@
 # TDIOT
-Video sequences uploaded to the following link demonstrate the short term and long term performance achieved by TDIOT on VOT2016, VOT2018, and VOT-LT2018.
+Video sequences uploaded to the following link demonstrate the short term and long term performance achieved by TDIOT on VOT2016, VOT2018, VOT-LT2018, LaSOT and OTB.
 https://youtube.com/playlist?list=PLMzonaXew-54_VaEJNn4TdrZkWpPeE4eW
 
 Arxiv paper for TDIOT is available at https://arxiv.org/abs/2103.11017
