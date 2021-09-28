@@ -69,9 +69,8 @@ python test_tdiot.py --img_path sample_data/ball1_img/ --gt_bbox_path sample_dat
   journal={IEEE Transactions on Image Processing}, 
   title={TDIOT: Target-driven Inference for Deep Video Object Tracking}, 
   year={2021},
-  volume={},
-  number={},
-  pages={1-1},
+  volume={30},
+  pages={7938 - 7951},
   doi={10.1109/TIP.2021.3112010}}
 ```
 
