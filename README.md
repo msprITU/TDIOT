@@ -7,7 +7,7 @@ Link for the demo videos for both VOT2016 and VOT2018 datasets (YouTube playlist
 
 https://www.youtube.com/watch?v=xMl3hOpShvM&list=PLMzonaXew-57vKDbiR0xoTurw22lYVWBw
 
-![Inference Architecture of TDIOT](Figure/TDIOT_GRA-1.png)
+![Inference Architecture of TDIOT](TDIOT_GRA-1.png)
 
 
 ## Setup (with Anaconda)
@@ -77,7 +77,7 @@ python test_tdiot.py --img_path sample_data/ball1_img/ --gt_bbox_path sample_dat
 
 ## Credits
 
-Mask R-CNN and pretrained weights based on [here](https://github.com/matterport/Mask_RCNN).
+Mask R-CNN and pretrained weights are based on [here](https://github.com/matterport/Mask_RCNN).
 
 KCF code is based on [here](https://github.com/fengyang95/pyCFTrackers).
 
