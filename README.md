@@ -7,7 +7,7 @@ Link for the demo videos for both VOT2016 and VOT2018 datasets (YouTube playlist
 
 https://www.youtube.com/watch?v=xMl3hOpShvM&list=PLMzonaXew-57vKDbiR0xoTurw22lYVWBw
 
-![Inference Architecture of TDIOT](TDIOT_GRA-1.png)
+![Inference Architecture of TDIOT](Figure/TDIOT_GRA-1.png)
 
 
 ## Setup (with Anaconda)
