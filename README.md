@@ -41,7 +41,7 @@ Required packages:
 
 ## To run the code
 
-You can run the code for two differeent scanerios: short term and long term.
+You can run the code for two different scanerios: short term and long term.
 
 After you run the code you will get results in *output* folder in text file format.
 In each row you will get (x,y) - top lef corner and (w,h)-width and height of the object. 
